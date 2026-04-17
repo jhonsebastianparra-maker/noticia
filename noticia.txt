@@ -1,0 +1,47 @@
+<h4>17/04/2026</h4>
+<h1>KRIS R TERMINA CON KARINA GARCIA</h1>
+<style>
+h1{
+text-align:center;
+background-color:#E1D8A1;
+font-family:times new roman;
+}
+</style>
+<h2>MIRARON A KRIS R CON OTRA MUJER QUE NO ES KARINA</h2>
+<style>
+h2{
+background-color:#E1D8A1;
+font-family:times new roman;
+text-align:center;
+}
+</style>
+<img class="iconoR" src="https://www.infobae.com/resizer/v2/35QNTPC4EFGL3AGJ7EMTULK33Q.jpg?auth=cd7f350f19826500d869972fa82d124814c78cdbf00158c04709b94aadedc611&smart=true&width=350&height=197&quality=85">
+<style>
+.iconoR{
+width:400px;
+height:250px;
+display:block;
+margin:auto;
+border-radius:15px;
+box-shadow: 5px 5px 15px gray;
+}
+</style>
+<P>Kris R y Karina García terminaron...Parecían estar bien, pero de un momento a otro dejaron de aparecer juntos en redes, y ya sabes que eso casi siempre significa algo.
+
+Todo comenzo cuando Karina subió una historia diciendo que hay que aprender a soltar, y desde ahi la gente empezo a sospechar de que algo estaba pasando entre los 2. Al rato, Kris también habló y dijo lo que todos menos esperaban que la relacion habia terminado.
+
+Según lo que Kris R y Karina Garcia dijieron fue que no hubo pelea ni nada así grande, simplemente ya no habia quimica entre los 2. Igual, como no dieron muchos detalles, la gente empezó a sacar teorías de todo tipo, pero al final solo ellos saben qué pasó realmente.
+
+Por ahora cada uno está en lo suyo, Kris r grabando canciones para sus fans y Karina creando mas contenido para las redes sociales, es muy tiste que esta pareja haya terminado ya que esta relacion fue muy querida por todo el mundo.</p>
+<style>
+p, ul{
+background-color:#E1D8A1;
+padding:20px;
+border-radius:10px;
+}
+</style>
+<style>
+body{
+background-color:#6A8CAF;
+</style>
+<h3>AUTOR: JHON SEBASTIAN PARRA</h3>
